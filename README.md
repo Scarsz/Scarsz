@@ -3,13 +3,14 @@
 - I usually program in Java but am also comfortable with JavaScript, Python, and C#.
 - I dabble in embedded devices such as the ESP32 & Arduino Nano microcontrollers.
 
-## Tools that I use
+## Technology that I use
 <p align="center">
   <img alt="Languages" src="https://img.shields.io/badge/-Programming%20Languages-000?style=flat-square&logo=plex&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-222222?style=flat-square&logo=javascript" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="CSharp" src="https://img.shields.io/badge/-%20.NET-239120?style=flat-square&logo=c%20sharp" />
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu%20bash&logoColor=white" />
 </p>
 
 <p align="center">
@@ -26,7 +27,7 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
-<p id="stats" align="center">
+<p align="center">
   <!-- <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Scarsz&show_icons=true"> -->
 
 <!--START_SECTION:waka-->
