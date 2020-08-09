@@ -31,5 +31,32 @@
   <!-- <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Scarsz&show_icons=true"> -->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-2.7%20million%20Lines%20of%20code-blue)
+
+**I'm a night 🦉** 
+
+```text
+🌞 Morning    14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02% 
+🌆 Daytime    167 commits    █████████░░░░░░░░░░░░░░░░   36.07% 
+🌃 Evening    165 commits    █████████░░░░░░░░░░░░░░░░   35.64% 
+🌙 Night      117 commits    ██████░░░░░░░░░░░░░░░░░░░   25.27%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+💬 Languages: 
+No Activity tracked this Week
+
+🐱‍💻 Projects: 
+No Activity tracked this Week
+
+```
+
+
 <!--END_SECTION:waka-->
 </p>
